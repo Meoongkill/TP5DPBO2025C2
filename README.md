@@ -87,3 +87,28 @@ Alur dari Codingan dapat ditelaah dari Alur Berikut:
 ![13  Intellij_Tampilan ketika ingin CANCEL INSERT DATA memilih YES](https://github.com/user-attachments/assets/2dfde83e-ebc4-4e9b-82c9-4dc887aa244a)
 
 14. Intellij_Tampilan ketika Update Data
+![14  Intellij_Tampilan ketika ingin UPDATE DATA](https://github.com/user-attachments/assets/10a2c4d6-85c1-4738-b914-93bc10d02b29)
+
+15. Intellij_Tampilan ketika Update Data Memilih No
+![15  Intellij_Tampilan ketika ingin UPDATE DATA Memilih NO](https://github.com/user-attachments/assets/dc94157a-0204-4f84-bcc9-17bcd037e07d)
+
+16. Intellij_Tampilan ketika Update Data Memilih Yes
+![16  Intellij_Tampilan ketika ingin UPDATE DATA Memilih YES](https://github.com/user-attachments/assets/36b3e1b0-31a7-482f-8038-c4ef4277cef2)
+
+17. Intellij_Tampilan ketika Cancel Update Data
+![17  Intellij_Tampilan ketika ingin CANCEL UPDATE DATA](https://github.com/user-attachments/assets/1197bb9b-45a2-4acb-aa4e-be9e837f620c)
+
+18. Intellij_Tampilan ketika Cancel Update Data Memilih No
+![18  Intellij_Tampilan ketika ingin CANCEL UPDATE DATA menekan NO](https://github.com/user-attachments/assets/83cd9839-f9dc-4cc4-b639-2177ff6757a5)
+
+20. Intellij_Tampilan ketika Cancel Update Data Memilih Yes
+![19  Intellij_Tampilan ketika ingin CANCEL UPDATE DATA menekan YES](https://github.com/user-attachments/assets/1b2505f7-7ab8-41a6-b154-5d930f2034a5)
+
+21. Intellij_Tampilan ketika Delete Data
+![19  Intellij_Tampilan ketika ingin DELETE DATA](https://github.com/user-attachments/assets/cd21faed-e0b1-490f-ad0a-64d9ce2a1328)
+
+23. Intellij_Tampilan ketika Delete Data Memilih No
+![20  Intellij_Tampilan ketika ingin DELETE DATA memilih NO](https://github.com/user-attachments/assets/49e70d39-5d78-4d81-bd9e-d0e8304de3a9)
+
+25. Intellij_Tampilan ketika Delete Data Memilih Yes
+![21  Intellij_Tampilan ketika ingin DELETE DATA memilih YES](https://github.com/user-attachments/assets/1ff27d8e-c13f-4cda-8ee1-6580dcdd83bb)
